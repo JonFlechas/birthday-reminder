@@ -1,3 +1,3 @@
-# React-Practice-Project-2
+# React-Practice-Project-1
 
-Site: https://jonflechas-react-2.netlify.app/
+Site: https://jonflechas-react-1.netlify.app/
